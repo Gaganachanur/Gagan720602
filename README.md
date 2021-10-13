@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gagan720602
+- 👋 Hi, I’m @Gaganra
 - 👀 I’m interested in learning technologies
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects
